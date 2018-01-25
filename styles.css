@@ -1,0 +1,72 @@
+header {
+    background: #333;
+    height: 100px;
+}
+
+
+.box1 {
+    width: 200px;
+    float: left;
+    margin-left: 50px;
+}
+
+.box2 {
+    width: 350px;
+    float: right;
+    margin-right: 50px;
+    
+}
+
+.header-box {
+    background: #eeeeee;
+    height: 50px;
+    margin-top: 25px;
+
+}
+
+main {
+    background: #eeeeee;
+}
+
+section {
+    background-color: #333;
+    width: 75%;
+    border: 1px red solid;
+    margin: 100px auto 0;
+}
+
+.section-box1{
+    width: 80%;
+    height: 75px;
+}
+
+.section-box2{
+    width: 60%;
+    height: 75px;
+}
+
+.white-box{
+    background: #eeeeee;
+}
+
+.section-box3{
+    width: 70%;
+    border: 1px red solid;
+    margin: 0 auto;
+    
+}
+
+.pill{
+    height: 50px;
+    display: inline-block;
+    width: 49%;
+    border-radius: 55px;
+}
+
+.right-box{
+    margin-left: 5px;
+}
+
+.left-box{
+    margin-right: 5px;
+}
