@@ -1,0 +1,25 @@
+header {
+    background: #333;
+    height: 100px;
+}
+
+.box1 {
+    background: #eeeeee;
+    height: 50px;
+    width: 200px;
+    float: left;
+    border-color: blue;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+.box2 {
+    background: #eeeeee;
+    height: 50px;
+    width: 350px;
+    float: right;
+    border-color: blue;
+    margin-right: 50px;
+    margin-top: 25px;
+
+}
